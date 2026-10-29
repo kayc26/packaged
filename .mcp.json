@@ -2,7 +2,7 @@
   "mcpServers": {
     "my-server": {
       "type": "http",
-      "url": "https://YOUR-SERVICE.onrender.com/mcp"
+      "url": "https://kitchen-inventory-w1mz.onrender.com"
     }
   }
 }
