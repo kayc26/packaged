@@ -1,8 +1,16 @@
 {
   "mcpServers": {
-    "my-server": {
+    "kitchen-inventory": {
       "type": "http",
       "url": "https://kitchen-inventory-w1mz.onrender.com/mcp"
+    },
+    "food-journal": {
+      "type": "http",
+      "url": "https://kayfoodlab.onrender.com/mcp"
+    },
+    "workout-log": {
+      "type": "http",
+      "url": "https://workout-tracker-k18m.onrender.com/mcp"
     }
   }
 }
